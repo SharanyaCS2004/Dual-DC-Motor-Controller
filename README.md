@@ -1,1 +1,1 @@
-# Dual-DC-Motor-Controller
+This project is a compact, dual-channel DC motor driver module designed using the L298N H-bridge motor driver IC. It allows independent control of two DC motors, making it ideal for robotics and automation applications.
