@@ -62,9 +62,8 @@ This project is a simple and efficient **dual DC motor driver module** based on 
 │ ├── DUAL DC MOTOR 3D VIEW.png # 3D rendered board view
 │ ├── DUAL DC MOTOR CONTROLLER_CKT.png # Schematic image
 │ └── DUAL DC MOTOR CONTROLLER_PCB ROUTING.png # PCB routing image
-└── README.md ```
-
----
+└── README.md
+```
 
 ## ⚙️ Features
 
@@ -99,16 +98,16 @@ This project is a simple and efficient **dual DC motor driver module** based on 
 
 ---
 
-## 🖼 Preview
+ ## 🖼 Preview
 
-### 🔧 Circuit Schematic  
+🔧 Circuit Schematic  
 ![Schematic](Images/DUAL_DC_MOTOR_CONTROLLER_CKT.png)
 
 ### 🧩 PCB Routing  
 ![Routing](Images/DUAL_DC_MOTOR_CONTROLLER_PCB_ROUTING.png)
 
 ### 🧱 3D View  
-![3D View](Images3DVIEW.png)
+![3D View](Images/3DVIEW.png)
 
 ---
 
